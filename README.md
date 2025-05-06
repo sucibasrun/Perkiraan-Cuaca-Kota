@@ -4,7 +4,6 @@
 ## 📌 Daftar Isi
 - [Deskripsi](#-deskripsi)
 - [Fitur Unggulan](#-fitur-unggulan)
-- [Demo](#-demo)
 - [Cara Penggunaan](#-cara-penggunaan)
 - [Teknologi](#-teknologi)
 
@@ -15,12 +14,6 @@ Aplikasi ini adalah perkiraan cuaca real-time yang menyajikan informasi cuaca ak
 - 🔍 Pencarian lokasi
 - ⏰ Prakiraan harian (7 hari)
 - 🌡️ Konversi satuan (Celsius/Fahrenheit)
-
-## 🎥 Demo
-![Demo Aplikasi](demo.gif)
-
-Tautan Demo: [https://weathernow-demo.netlify.app](https://weathernow-demo.netlify.app)
-
 
 
 ## 💻 Teknologi
