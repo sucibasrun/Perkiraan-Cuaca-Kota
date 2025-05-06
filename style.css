@@ -2,11 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
 }
 body{
     position: relative;
-    background: url('backround/download (30).jpg');
+    background: url('backround/download (34).jpg');
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
@@ -14,6 +14,7 @@ body{
     justify-content: center;
     align-items: center;
     padding: 15px;
+
 }
 .attr{
     position: absolute;
@@ -39,6 +40,7 @@ body{
     box-shadow: 0 5px 25px rgba(0,0,0,.5);
     width: 100%;
     max-width: 512px;
+    color: #fff;
 }
 .container .search-box{
     display: flex;
@@ -88,6 +90,7 @@ body{
 }
 .container .weather-details.active{
     display: flex;
+    color: #f7f8fd;
 }
 .container .weather-details .grid{
     display: grid;
@@ -117,6 +120,7 @@ body{
     display: flex;
     align-items: center;
     gap: 10px;
+    color: #ffffff;
 }
 .container .daily-cards{
     display: flex;
@@ -126,12 +130,13 @@ body{
     overflow-x: auto;
     padding: 15px;
     gap: 10px;
+    color: aliceblue;
 }
 .container .daily-cards::-webkit-scrollbar{
     height: 10px;
 }
 .container .daily-cards::-webkit-scrollbar-thumb{
-    background: #bbb;
+    background: #ffffff;
     border-radius: 75px;
 }
 .container .daily-cards .card{
@@ -143,7 +148,7 @@ body{
     box-shadow: 0 5px 10px rgba(0,0,0,.5);
     padding: 10px;
     border-radius: 10px;
-    background: #fafafa;
+    background: #2f72c0;
 }
 .container .daily-cards .card p{
     margin: 3px 0;
