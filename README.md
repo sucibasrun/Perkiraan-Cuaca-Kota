@@ -4,7 +4,6 @@
 ## 📌 Daftar Isi
 - [Deskripsi](#-deskripsi)
 - [Fitur Unggulan](#-fitur-unggulan)
-- [Cara Penggunaan](#-cara-penggunaan)
 - [Teknologi](#-teknologi)
 
 ## 📝 Deskripsi
